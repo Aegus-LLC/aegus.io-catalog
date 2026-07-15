@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "cmrj7q1dk00004xfh1ezlm0ff",
+      "citekey": "kpss2017",
+      "title": "Technological Innovation, Resource Allocation, and Growth",
+      "authors": "Kogan, Papanikolaou, Seru, Stoffman",
+      "year": 2017,
+      "journal": "The Quarterly Journal of Economics",
+      "doi": "10.1093/qje/qjw040",
+      "fieldTags": [
+        "Innovation",
+        "Asset Pricing"
+      ],
+      "methodTags": [
+        "event-study",
+        "panel"
+      ],
+      "description": "Replication of KPSS patent-value measures: market reactions to patent grants, reallocation, and growth regressions.",
+      "replicationDiff": "Headline estimates match the published tables (see replication tables in the reader).",
+      "uses": 4,
+      "publishedAt": "2026-07-13T23:35:36.486Z",
+      "entryDocUrl": "https://raw.githubusercontent.com/Aegus-LLC/aegus.io-catalog/main/entries/kpss2017-v8.json",
+      "bundleUrl": "https://raw.githubusercontent.com/Aegus-LLC/aegus.io-catalog/main/bundles/kpss2017/kpss2017-v8.aegus",
+      "bundleSha256": "a8f37aa006186c6c33033d4ef7f3e4acc28130658b5292dd45eb8dfa067b7946",
+      "bundleVersion": 8,
+      "keyId": 1
+    }
+  ]
+}
